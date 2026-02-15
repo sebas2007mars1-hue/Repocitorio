@@ -1,0 +1,1 @@
+console.log("BIENVENIDO AL EJERCICIO 2");
